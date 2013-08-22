@@ -36,8 +36,9 @@ Die SuS sollten geometrische Formen kennen
 Einflussfaktoren	
 - Forschungsinteresse der SuS muss da sein/ geweckt werden
 - SuS sollten gerne Malen
-- 
-Unterrichtsmethoden	-
+
+Unterrichtsmethoden: 
+bis jetzt keine Änderungen
 
 Diagnose	
 SuS präsentieren am Ende ihre eigenen Kunstwerke und erklären die Regeln des vorgegebenen Kunstwerkes welches sie erforscht haben und falls abweichende die von ihrem eigenen Kunstwerk
